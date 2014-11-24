@@ -1,6 +1,0 @@
-H:\x14111063 Li Wang\CA2\CA2\bin\CA2.dll.config
-H:\x14111063 Li Wang\CA2\CA2\bin\CA2.dll
-H:\x14111063 Li Wang\CA2\CA2\bin\CA2.pdb
-H:\x14111063 Li Wang\CA2\CA2\obj\Debug\CA2.csprojResolveAssemblyReference.cache
-H:\x14111063 Li Wang\CA2\CA2\obj\Debug\CA2.dll
-H:\x14111063 Li Wang\CA2\CA2\obj\Debug\CA2.pdb
