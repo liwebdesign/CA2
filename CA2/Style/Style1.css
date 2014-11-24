@@ -1,6 +1,8 @@
 ﻿body {
    
     background-color:aliceblue;
+    background-image:url("../Image/bg.jpg");
+    background-repeat:no-repeat;
   
 }
 image{
@@ -23,4 +25,13 @@ P{
     COLOR:mediumvioletred;
     background-color:#6495ed;
     text-align: center;
+}
+
+.floatLeft{
+    width: 60%;
+    float: left;
+}
+.floatRight{
+    width: 30%;
+    float:right;
 }
